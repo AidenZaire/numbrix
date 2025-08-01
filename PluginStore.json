@@ -1,0 +1,10 @@
+{
+  "simple_calculator": {
+    "name": "Simple Calculator",
+    "author": "Ayden",
+    "version": "1.0.0",
+    "description": "Performs basic arithmetic operations (add, subtract, multiply, divide)",
+    "download_url": "https://raw.githubusercontent.com/your-username/your-repo/main/simple_calculator.py",
+    "main_file": "simple_calculator.py"
+  }
+}
